@@ -11,9 +11,9 @@ function App() {
 
       <main className="content">
         <section className="card">
-          <h2>1. About Ground App</h2>
+          <h2>1. About NM Greens</h2>
           <p>
-            Ground App is an online sports ground and turf booking platform that enables users to discover, view, and reserve sports facilities such as cricket grounds, football turfs, badminton courts, and other recreational venues.
+            NM Greens is an online sports ground and turf booking platform that enables users to discover, view, and reserve sports facilities such as cricket grounds, football turfs, badminton courts, and other recreational venues.
           </p>
           <p>
             The application is designed to provide a convenient booking experience, facility management tools, and communication services between users and venue owners.
@@ -169,7 +169,7 @@ function App() {
 
         <section className="card">
           <h2>9. Payments and Transactions</h2>
-          <p>Ground App may facilitate online payments through third-party payment providers.</p>
+          <p>NM Greens may facilitate online payments through third-party payment providers.</p>
           <p>We do not store complete debit card, credit card, or banking information on our servers.</p>
           <p>All payment processing is handled by authorized and secure payment partners.</p>
         </section>
@@ -185,7 +185,7 @@ function App() {
           <h2>11. Contact Us</h2>
           <p>For questions regarding this Privacy Policy, please contact:</p>
           <div className="contact-info">
-            <p><strong>Ground App</strong></p>
+            <p><strong>NM Greens</strong></p>
             <p>Medavakkam, Chennai, Tamil Nadu</p>
             <p>Email: <a href="mailto:nmgreensdk@gmail.com">nmgreensdk@gmail.com</a></p>
             <p>Phone: +91 99828 99287, +91 8610051003</p>
@@ -194,7 +194,7 @@ function App() {
       </main>
       
       <footer className="footer">
-        <p>&copy; 2026 Ground App. All rights reserved.</p>
+        <p>&copy; 2026 NM Greens. All rights reserved.</p>
       </footer>
     </div>
   );
