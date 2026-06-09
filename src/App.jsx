@@ -13,7 +13,7 @@ function App() {
         <section className="card">
           <h2>1. About NM Greens</h2>
           <p>
-            NM Greens is an online sports ground and turf booking platform that enables users to discover, view, and reserve sports facilities such as cricket grounds, football turfs, badminton courts, and other recreational venues.
+            NM Greens is a dedicated cricket ground booking platform that enables users to discover, view, and reserve our premier cricket facilities. We currently offer two distinct grounds: a professional Cricket Ball Ground and a dedicated Tennis Ball Ground.
           </p>
           <p>
             The application is designed to provide a convenient booking experience, facility management tools, and communication services between users and venue owners.
